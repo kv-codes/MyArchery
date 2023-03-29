@@ -2,3 +2,25 @@
     background-image: url('flat-design-traditional-native-american-pattern_23-2149188294.avif');
     height: 100vh;
 }
+header{
+    background-color: bisque;
+    padding: 20px 0;
+    float:left;
+    width: 100%;
+
+    
+}
+header h1{
+    float:left;
+    font-family: "papyrus",fantasy;
+    font-size: 55px;
+   
+
+
+}
+
+header ul{
+    float:right;
+    text-transform: uppercase;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
