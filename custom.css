@@ -1,9 +1,16 @@
 .background{
     background-image: url('flat-design-traditional-native-american-pattern_23-2149188294.avif');
-    height: 100vh;
+    height: 120vh;
+    border-top: 13px;
+    border-left: 14px;
+    border-right: 14px;
+    border-bottom: 13px;
+
+    border-style: solid;
+    border-color:firebrick;
 }
 header{
-    background-color: bisque;
+    background-color:bisque;
     padding: 20px 0;
     float:left;
     width: 100%;
@@ -12,8 +19,9 @@ header{
 }
 header h1{
     float:left;
-    font-family: "papyrus",fantasy;
+    font-family: "papyrus", fantasy;
     font-size: 55px;
+    color:firebrick;
    
 
 
@@ -24,3 +32,59 @@ header ul{
     text-transform: uppercase;
     font-family: "Lucida Console", "Courier New", monospace;
 }
+
+a {
+    color: firebrick;
+}
+
+
+
+.carousel-caption h1{
+    color:floralwhite;
+}
+
+.red-text strong{
+    color:cyan;
+}
+
+/* to resize the image inside the carousel */
+img {
+    width: 1100px;
+    height: 700px;
+    object-fit: cover;
+
+
+    
+}
+/* to resize/style the carousel */
+#carouselCaptions .carousel-inner {
+    border-top: 10px;
+    border-left: 12px;
+    border-right: 12px;
+    border-bottom: 10px;
+    border-color:burlywood;
+    border-style: solid;
+    border-radius: 3%;
+    width: 1000px;
+    height: 700px;
+
+}
+
+#carouselCaptions {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* spefically resizes the image: bow4 */
+img[alt="bow4"] {
+    width: 1100px;
+    height: 1000px;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
