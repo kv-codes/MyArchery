@@ -2,18 +2,14 @@
     background-image: url('flat-design-traditional-native-american-pattern_23-2149188294.avif');
     height: 100%;
     border-top: 13px;
-
-
-
     border-style: solid;
     border-color:firebrick;
 }
 header{
-    background-color:firebrick;
-    
+    background-color:firebrick;    
     float:left;
     width: 100%;
-    padding-bottom: 30px;    
+    padding-bottom: 10px;    
 }
 header h1{
     float:left;
@@ -60,6 +56,7 @@ img {
     width: 900px;
     height: 600px;
     margin-top: 18px;
+    margin-bottom: 18px;
 
 }
 
@@ -77,28 +74,64 @@ img[alt="bow4"] {
 
 footer{
     display:flex;        
-    padding: 100px;
+    padding: 30px;
     background-color:firebrick;
     color:beige;
     height: auto;
     width: 100%;
-    margin-top: 25px;
-
+    margin-top: 6px;
 }
 
 .footer-content {
     margin-left: auto;
     margin-right: auto;
+    font-family: "papyrus", fantasy;
+    font-size: 55px;
+    color:bisque;
+    position: relative;
+    padding-top: 0;
+    
+}
+
+.hr-header{
+    border: 0;
+    height:5px;
+    background-image:linear-gradient(to right, rgb(255, 255, 255), rgb(240, 240, 240), rgb(180, 180, 180), rgb(90, 90, 90));
+    margin-top: 0;
+    
+}
+.hr-footer{
+    border: 0;
+    height: 4px;
+    background-image: linear-gradient(to right, rgb(120, 120, 120), rgb(240, 240, 240), rgb(255, 255, 255), rgb(240, 240, 240), rgb(120,120,120));
+    margin-top: 0;
+}
+
+.icons{
+    list-style: none; /*removes the bullets*/
+    display: flex; /*displays the icons going across*/
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+    margin-top: 50px;
+
+}
+
+.icons li {
+    margin: 0 20px; /*space between the elements in the list*/
+}
+
+li a{
+    text-decoration: none; /*gets rid of the 2 dots between fb icon*/
+    border: 2.3px solid bisque; /*borders around the icons*/
+    padding: 6px;
+    border-radius: 30%;
+    width: 64px;
+    
+}
     
 
-}
 
-hr{
-    border: 0;
-    height: 3px;
-
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(244, 242, 228, 0.75), rgba(0, 0, 0, 0));
-}
 
 
 
