@@ -3,10 +3,10 @@
     height: 100%;
     border-top: 13px;
     border-style: solid;
-    border-color:firebrick;
+    border-color:indianred;
 }
 header{
-    background-color:firebrick;    
+    background-color:indianred;    
     float:left;
     width: 100%;
     padding-bottom: 8px;    
@@ -15,12 +15,8 @@ header h1{
     float:left;
     font-family: "papyrus", fantasy;
     font-size: 55px;
-    color:bisque;
+    color:navajowhite;
 }
-
-
-
-
 
 
 .carousel-caption h1{
@@ -68,8 +64,8 @@ img[alt="bow4"] {
 footer{
     display:flex;        
     padding: 30px;
-    background-color:firebrick;
-    color:beige;
+    background-color:indianred;
+    color:navajowhite;
     height: auto;
     width: 100%;
     margin-top: -3px;
@@ -80,7 +76,7 @@ footer{
     margin-right: auto;
     font-family: "papyrus", fantasy;
     font-size: 55px;
-    color:bisque;
+    color:navajowhite;
     position: relative;
     padding-top: 0;
     
@@ -121,7 +117,7 @@ li a{
     padding: 6px;
     border-radius: 30%;
     width: 64px;
-    color: bisque;
+    color: navajowhite;
     
     
 }
@@ -148,9 +144,17 @@ section a {
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 20px;
     margin-right: 15px;
-    color:bisque;
+    color: navajowhite;
     ;
     
+}
+
+section a:hover{
+    color:turquoise;
+}
+
+li a:hover{
+    color:turquoise;
 }
 
 
