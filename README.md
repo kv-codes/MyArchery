@@ -6,27 +6,56 @@ In this project, I've created an image carousel to showcase some items from my b
 - [Getting Started](#getting_started)
 - [Installing](#installing)
 - [Usage](#usage)
+- [Technologies](#technologies)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 ## About
 My motive for this project was to challenge myself in learning more of Bootstrap 5's design templates but not only limited to BS5 Containers, Flex, and Carousels.
 
 ## Getting Started
-1. In your index.html file: Get the HTMl5 boilerplate by using this [shortcut](https://backbencher.dev/html-boilerplate-code-visual-studio-code#:~:text=To%20try%20the%20shortcut%2C%20create,HTML5%20code%20to%20the%20file.).
+In your index.html file: Get the HTMl5 boilerplate by using this [shortcut](https://backbencher.dev/html-boilerplate-code-visual-studio-code#:~:text=To%20try%20the%20shortcut%2C%20create,HTML5%20code%20to%20the%20file.).
 
-2. Get Bootstrap5 on your project with BootstrapCDN to link to Boostrap's default stylesheet. Get the source code [here](https://getbootstrap.com/docs/5.0/getting-started/download/). Place the link tag within the head section and the script tag before the closing body tag.
+## Installing
 
-3.  Get Custom CSS to override Bootstrap5 CSS. First, make a file for your custom css, you can call this file custom.css. Then place this link tag here directly underneath the link to the default stylesheet:
+1. Get Bootstrap5 on your project with BootstrapCDN to link to Boostrap's default stylesheet. Get the source code [here](https://getbootstrap.com/docs/5.0/getting-started/download/). Place the link tag within the head section and the script tag before the closing body tag.
+
+2.  Get Custom CSS to override Bootstrap5 CSS. First, make a file for your custom css, you can call this file custom.css. Then place this link tag here directly underneath the link to the default stylesheet:
 
 ![Alt text](/BS_Override.png)
 
-4. Get the favicon library to have access to use icons. To use the Font Awesome 4 icons, add the folling line in the head section:
+3. Get the favicon library to have access to use icons. To use the Font Awesome 4 icons, add the following line in the head section:
 
 ![alt text](/icons_library.png)
 
-5. 
+4. To make the "Contact Me" link scroll down to the Contact section of the page upon clicking:
 
-## Technologies Used
+[Add an opening section id in the Header in the "Contact Me" link to target a starting point in scrolling:]
 
-## Ackwoledgements
+![alt text](/ScrollDown_Header.png)
+
+
+[Add a closing section id in the Footer section to set the footer as the address to scroll down to from the header:]
+
+![alt text](/ScrollDown-footer.png)
+
+[Create a JavaScript file(you can call it scroll.js) and write the following code to make the starting section id in the index.html file transition to the ending section id.The code was found [here](https://codepen.io/nxworld/pen/OyRrGy). This makes the page scroll down to the footer once the "Contact Me" link is clicked:]
+
+![alt text](/ScrollDown_JS_code.png)
+
+
+
+## Usage 
+In this simple image carousel site, the user can:
+
+View slideshow of the images
+
+Scroll down to the "Contact Me" in the header section of the page.
+
+Click and open the icons under the "Contact Me" section.
+
+## Technologies
+
+## Acknowledgements
 
 ## License
