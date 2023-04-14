@@ -50,15 +50,15 @@ In this simple image carousel site, the user can:
 
 **View slideshow of the images:** Clicking the left arrow will navigate toward the previous slide, the right arrow leads to the next slide. If no arrow is clicked, the carousel will automatically transition towards the next slide after the set interval of 5000 milliseconds(adjustable). To pause the slideshow, just leave the mouse hovering over anywhere on the carousel.
 
-![Alt](/Buttons.png)
+![alt](/Buttons.png)
 
 **Instantly scroll down to the footer section of the page to view contact info:** Clicking the "Contact Me" link in the header will scroll all the way down to the footer.
 
-![Alt](/Scroll_Down_Link.png)
+![alt](/Contact_Link.png)
 
 **Click and open the icons under the "Contact Me" section.**
 
-![Alt](/Open_icons.png)
+![alt](/Contact_Logos.png)
 
 ## Technologies
 
