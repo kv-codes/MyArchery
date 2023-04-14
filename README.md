@@ -30,16 +30,16 @@ In your index.html file: Get the HTMl5 boilerplate by using this [shortcut](http
 
 4. To make the "Contact Me" link scroll down to the Contact section of the page upon clicking:
 
-[Add an opening section id in the Header in the "Contact Me" link to target a starting point in scrolling:]
+* Add an opening section id in the Header in the "Contact Me" link to target a starting point in scrolling:
 
 ![alt text](/ScrollDown_Header.png)
 
 
-[Add a closing section id in the Footer section to set the footer as the address to scroll down to from the header:]
+* Then add a closing section id in the Footer section to set the footer as the address to scroll down to from the header:
 
 ![alt text](/ScrollDown-footer.png)
 
-[Create a JavaScript file(you can call it scroll.js) and write the following code to make the starting section id in the index.html file transition to the ending section id.The code was found [here](https://codepen.io/nxworld/pen/OyRrGy). This makes the page scroll down to the footer once the "Contact Me" link is clicked:]
+* And then create a JavaScript file(you can call it scroll.js) and write the following code to make the starting section id in the index.html file transition to the ending section id. The source of help for that code was found [here](https://codepen.io/nxworld/pen/OyRrGy). This makes the page scroll down to the footer once the "Contact Me" link is clicked:
 
 ![alt text](/ScrollDown_JS_code.png)
 
@@ -48,11 +48,17 @@ In your index.html file: Get the HTMl5 boilerplate by using this [shortcut](http
 ## Usage 
 In this simple image carousel site, the user can:
 
-View slideshow of the images
+**View slideshow of the images:** Clicking the left arrow will navigate toward the previous slide, the right arrow leads to the next slide. If no arrow is clicked, the carousel will automatically transition towards the next slide after the set interval of 5000 milliseconds(adjustable). To pause the slideshow, just leave the mouse hovering over anywhere on the carousel.
 
-Scroll down to the "Contact Me" in the header section of the page.
+![Alt](/Buttons.png)
 
-Click and open the icons under the "Contact Me" section.
+**Instantly scroll down to the footer section of the page to view contact info:** Clicking the "Contact Me" link in the header will scroll all the way down to the footer.
+
+![Alt](/Scroll_Down_Link.png)
+
+**Click and open the icons under the "Contact Me" section.**
+
+![Alt](/Open_icons.png)
 
 ## Technologies
 
