@@ -61,6 +61,11 @@ In this simple image carousel site, the user can:
 ![alt](/Contact_Logos.png)
 
 ## Technologies
+* HTML5
+* CSS
+* Boostrap v5.2.3
+* Favicons library v4.7.0
+
 
 ## Acknowledgements
 
