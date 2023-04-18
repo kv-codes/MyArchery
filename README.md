@@ -68,7 +68,7 @@ In this simple image carousel site, the user can:
 
 
 ## Acknowledgements/Sources Cited
-[Bootstrap Carousel -] (https://www.w3schools.com/bootstrap5/bootstrap_carousel.php)
+Bootstrap Carousel - https://www.w3schools.com/bootstrap5/bootstrap_carousel.php
 Favicons Library - [https://www.w3schools.com/html/html_favicon.asp]
 Scroll Down Button - [https://codepen.io/nxworld/pen/OyRrGy]
 Footer Design - [https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/]
