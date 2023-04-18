@@ -7,7 +7,7 @@ In this project, I've created an image carousel to showcase some items from my b
 - [Installing](#installing)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Acknowledgements](#acknowledgements)
+- [Acknowledgements](#acknowledgements/sources_cited)
 - [License](#license)
 
 ## About
