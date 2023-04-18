@@ -68,10 +68,10 @@ In this simple image carousel site, the user can:
 
 
 ## Acknowledgements/Sources Cited
-Bootstrap Carousel - https://www.w3schools.com/bootstrap5/bootstrap_carousel.php
-Favicons Library - [https://www.w3schools.com/html/html_favicon.asp]
-Scroll Down Button - [https://codepen.io/nxworld/pen/OyRrGy]
-Footer Design - [https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/]
-
+* Bootstrap Carousel - https://www.w3schools.com/bootstrap5/bootstrap_carousel.php
+* Favicons Library - https://www.w3schools.com/html/html_favicon.asp
+* Scroll Down Button - https://codepen.io/nxworld/pen/OyRrGy
+* Footer Design - https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/
+* Background Template - https://www.freepik.com/free-vector/flat-design-traditional-native-american-pattern_20826204.htm#query=native%20american%20background&position=2&from_view=keyword&track=ais
 
 ## License
