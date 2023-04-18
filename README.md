@@ -3,11 +3,11 @@ In this project, I've created an image carousel to showcase some items from my b
 
 ## Table of Contents
 - [About](#about)
-- [Getting Started](#getting started)
+- [Getting_Started](#getting started)
 - [Installing](#installing)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Acknowledgements](#acknowledgements/sources_cited)
+- [Acknowledgements/sources_cited](#acknowledgements/sources_cited)
 - [License](#license)
 
 ## About
