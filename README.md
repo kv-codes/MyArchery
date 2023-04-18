@@ -3,7 +3,7 @@ In this project, I've created an image carousel to showcase some items from my b
 
 ## Table of Contents
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Getting Started](#getting started)
 - [Installing](#installing)
 - [Usage](#usage)
 - [Technologies](#technologies)
@@ -67,6 +67,11 @@ In this simple image carousel site, the user can:
 * Favicons library v4.7.0
 
 
-## Acknowledgements
+## Acknowledgements/Sources Cited
+Bootstrap Carousel - [https://www.w3schools.com/bootstrap5/bootstrap_carousel.php]
+Favicons Library - [https://www.w3schools.com/html/html_favicon.asp]
+Scroll Down Button - [https://codepen.io/nxworld/pen/OyRrGy]
+Footer Design - [https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/]
+
 
 ## License
