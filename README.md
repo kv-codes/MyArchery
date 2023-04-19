@@ -3,7 +3,7 @@ In this project, I've created an image carousel to showcase some items from my b
 
 ## Table of Contents
 - [About](#about)
-- [Getting_Started](#getting started)
+- [Getting Started](#gettingstarted)
 - [Installing](#installing)
 - [Usage](#usage)
 - [Technologies](#technologies)
@@ -22,7 +22,7 @@ In your index.html file: Get the HTMl5 boilerplate by using this [shortcut](http
 
 2.  Get Custom CSS to override Bootstrap5 CSS. First, make a file for your custom css, you can call this file custom.css. Then place this link tag here directly underneath the link to the default stylesheet:
 
-![Alt text](/BS_Override.png)
+![alt text](/BS_Override.png)
 
 3. Get the favicon library to have access to use icons. To use the Font Awesome 4 icons, add the following line in the head section:
 
